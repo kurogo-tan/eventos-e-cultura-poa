@@ -1,0 +1,17 @@
+node_modules/
+.next/
+out/
+.vercel/
+
+# arquivos locais e variáveis de ambiente
+.env
+.env.local
+.env.*.local
+
+# arquivos gerados pelo TypeScript
+*.tsbuildinfo
+
+# sistema operacional e editores
+.DS_Store
+Thumbs.db
+.vscode/

@@ -8,7 +8,12 @@ export function dataLocal(data: string) {
 }
 
 export function eventoEstaVigente(evento: Evento, hoje = new Date()) {
-  return dataLocal(evento.dataFim) >= new Date(hoje.getFullYear(), hoje.getMonth(), hoje.getDate());
+  const partes = new Intl.DateTimeFormat("en-US", {
+    timeZone: "America/Sao_Paulo", year: "numeric", month: "2-digit", day: "2-digit"
+  }).formatToParts(hoje);
+  const valor = (tipo: string) => partes.find((parte) => parte.type === tipo)?.value;
+  const diaAtual = `${valor("year")}-${valor("month")}-${valor("day")}`;
+  return evento.dataFim >= diaAtual;
 }
 
 export function dataFormatada(data: string) {

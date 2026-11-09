@@ -35,4 +35,76 @@
   ,{
     "id": "ospa-alma-hungara-rio-grande", "titulo": "Alma Húngara — OSPA em Rio Grande", "categoria": "Música", "descricao": "Concerto gratuito da Orquestra Sinfônica de Porto Alegre com repertório húngaro e brasileiro.", "descricaoCompleta": "A OSPA apresenta obras de Béla Bartók, Jenő Hubay, Zoltán Kodály e Mozart Camargo Guarnieri, com a violinista Édua Zádory e regência de Cláudio Cruz.", "cidade": "Rio Grande", "local": "Paróquia Nossa Senhora do Carmo", "endereco": "Rua General Bacelar, 224, Centro, Rio Grande - RS", "dataInicio": "2026-11-14", "dataFim": "2026-11-14", "horario": "19h", "gratuito": true, "preco": "Entrada franca", "classificacaoEtaria": "Livre", "comoParticipar": "Consulte a página oficial da OSPA antes de sair para confirmar a disponibilidade de lugares.", "fonteOficial": "https://www.ospa.rs.gov.br/alma-hungara-6acfb2f815394", "verificadoEm": "2026-11-08"
   }
+  ,{
+    "id": "premio-minuano-2026",
+    "titulo": "Cerimônia do Prêmio Minuano de Literatura",
+    "categoria": "Literatura",
+    "descricao": "Entrega da premiação que reconhece obras de escritores nascidos ou residentes no RS.",
+    "descricaoCompleta": "A solenidade reúne a literatura gaúcha na Casa de Cultura Mario Quintana e integra a programação gratuita da Sedac na Feira do Livro.",
+    "cidade": "Porto Alegre",
+    "local": "Auditório Luis Cosme — Casa de Cultura Mario Quintana",
+    "endereco": "Rua dos Andradas, 736, Centro Histórico, Porto Alegre - RS",
+    "dataInicio": "2026-11-11",
+    "dataFim": "2026-11-11",
+    "horario": "19h",
+    "gratuito": true,
+    "preco": "Entrada gratuita",
+    "comoParticipar": "Consulte a Sedac para confirmar lotação e condições de acesso ao auditório.",
+    "fonteOficial": "https://cultura.rs.gov.br/secretaria-da-cultura-anuncia-programacao-na-72-feira-do-livro-de-porto-alegre",
+    "verificadoEm": "2026-11-08"
+  },
+  {
+    "id": "circulo-critica-iel-feira-2026",
+    "titulo": "Círculo de Crítica IEL — edição especial",
+    "categoria": "Oficinas",
+    "descricao": "Encontro de escrita criativa para trocar ideias sobre rascunhos e projetos literários.",
+    "descricaoCompleta": "A edição especial do clube de escrita do Instituto Estadual do Livro convida escritores a discutir projetos em desenvolvimento no Espaço Banrisul Cultural da Feira do Livro.",
+    "cidade": "Porto Alegre",
+    "local": "Espaço Banrisul Cultural — Feira do Livro",
+    "endereco": "Praça da Alfândega, Centro Histórico, Porto Alegre - RS",
+    "dataInicio": "2026-11-14",
+    "dataFim": "2026-11-14",
+    "horario": "10h às 12h",
+    "gratuito": true,
+    "preco": "Participação gratuita",
+    "comoParticipar": "Consulte o IEL para confirmar orientações de participação.",
+    "fonteOficial": "https://cultura.rs.gov.br/secretaria-da-cultura-anuncia-programacao-na-72-feira-do-livro-de-porto-alegre",
+    "verificadoEm": "2026-11-08"
+  }
+  ,{
+    "id": "cabares-zona-dezembro-2026",
+    "titulo": "Cabarés da Zona — dezembro",
+    "categoria": "Teatro",
+    "descricao": "Noite de cabaré com encontros cênicos e palco aberto do projeto Mulheres da Cena Gaúcha.",
+    "descricaoCompleta": "A série reúne artistas e experiências cênicas na Zona Cultural. A edição de dezembro integra o projeto Banrisul Mulheres da Cena Gaúcha e tem entrada gratuita.",
+    "cidade": "Porto Alegre",
+    "local": "Zona Cultural",
+    "endereco": "Avenida Alberto Bins, 900, Porto Alegre - RS",
+    "dataInicio": "2026-12-04",
+    "dataFim": "2026-12-04",
+    "horario": "20h",
+    "gratuito": true,
+    "preco": "Entrada gratuita",
+    "comoParticipar": "Consulte a organização para confirmar lotação e orientações de acesso.",
+    "fonteOficial": "https://cultura.rs.gov.br/banrisul-mulheres-da-cena-gaucha-promove-cinco-noites-de-espetaculos-cabares-com-entrada-gratuita-na-zona-cultural",
+    "verificadoEm": "2026-11-08"
+  },
+  {
+    "id": "feira-mosaico-dezembro-2026",
+    "titulo": "Feira Mosaico — dezembro",
+    "categoria": "Feiras",
+    "descricao": "Feira de produção autoral, design, moda e gastronomia no Multipalco Eva Sopher.",
+    "descricaoCompleta": "A edição de dezembro está confirmada no calendário da Feira Mosaico, que aproxima o público de artistas e produtores locais. A entrada é gratuita; compras e consumo são pagos à parte. Em caso de chuva, a data pode ser transferida.",
+    "cidade": "Porto Alegre",
+    "local": "Multipalco Eva Sopher",
+    "endereco": "Rua Riachuelo, 1089, Centro Histórico, Porto Alegre - RS",
+    "dataInicio": "2026-12-05",
+    "dataFim": "2026-12-05",
+    "horario": "Horário da edição a confirmar",
+    "gratuito": true,
+    "preco": "Entrada gratuita",
+    "comoParticipar": "Confirme o horário e eventuais alterações por chuva nos canais do Theatro São Pedro.",
+    "fonteOficial": "https://cultura.rs.gov.br/feira-mosaico-une-moda-design-bem-estar-gastronomia-e-musica-no-multipalco-eva-sopher",
+    "verificadoEm": "2026-11-08"
+  }
 ]
